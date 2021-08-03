@@ -179,7 +179,7 @@ body {
     }
     .banner {
         position: relative;
-        background-image: url('https://s3.amazonaws.com/codecademy-content/courses/ltp/img/lodging.png');
+        background-image: url('lodging.png');
         background-repeat: no-repeat;
         background-size: contain;
         height: 500px;
